@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-production mistake
-=======
-original line
->>>>>>> 2a4f4dd4432258868cac68e1523dbb9446c29270
